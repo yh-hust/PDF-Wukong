@@ -24,16 +24,16 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 
 ## Methodology
 <p align="center">
-    <img src="assets/overall structure of PDF-WuKong.png" width="1000"/>
+    <img src="assets/overall structure of PDF-WuKong.png" width="700"/>
 </p>
 
 ## Dataset
 
 <p align="center">
-    <img src="assets/dataset construction.png" width="1000"/>
+    <img src="assets/dataset construction.png" width="500"/>
 </p>
 <p align="center">
-    <img src="assets/The statistic of PaperPDF.png" width="1000"/>
+    <img src="assets/The statistic of PaperPDF.png" width="300"/>
 </p>
 ## Evaluate
 In Progress
