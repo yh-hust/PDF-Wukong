@@ -27,6 +27,7 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 <p align="center">
     <img src="assets/overall structure of PDF-WuKong.png" width="1000"/>
 </p>
+
 ### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/dataset construction.png" width="1000"/>
@@ -46,10 +47,12 @@ In Progress
 <p align="center">
     <img src="assets/comparision on PaperPDF.png" width="500"/>
 </p>
+
 ### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/single page evaluation.png" width="500"/>
 </p>
+
 ### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/MP evaluation.png" width="500"/>
