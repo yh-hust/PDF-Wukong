@@ -61,6 +61,9 @@ In Progress
 ## Inference
 In Progress
 
+## Checkpoint
+will be released soon
+
 ## Demo
 In Progress
 
