@@ -50,7 +50,7 @@ In Progress
 <p align="center">
     <img src="assets/MP evaluation.png" width="500"/>
 </p>
-In Progress
+Please refer to Technical Report for more details.
 
 ## Environment
 In Progress
