@@ -33,14 +33,14 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
     <img src="assets/dataset construction.png" width="1000"/>
 </p>
 
-In Progress
+In Progress...
 
 ## Dataset
 ### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/The statistic of PaperPDF.png" width="500"/>
 </p>
-In Progress
+In Progress...
 
 ## Evaluate
 ### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
@@ -60,23 +60,23 @@ In Progress
 Please refer to Technical Report for more details.
 
 ## Environment
-In Progress
+In Progress...
 
 ## Train
-In Progress
+In Progress...
 
 ## Inference
-In Progress
+In Progress...
 
 ## Checkpoint
 will be released soon
 
 ## Demo
-In Progress
+In Progress...
 
 ## Citing PDF-Wukong
 ## Copyright
 <!-- If you wish to refer to the baseline results published here, please use the following BibTeX entries: -->
-In Progress
+In Progress...
 
 PDF-Wukong project is intended for non-commercial use only. For commercial inquiries, please contact Prof. Wei Chen at lemuria_chen@hust.edu.cn. 
