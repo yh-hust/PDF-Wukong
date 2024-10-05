@@ -37,7 +37,7 @@ In Progress...
 
 ## Dataset
 ### The statistic of PaperPDF.
-Text-only and Image-only indicate that the QA pairs are generated based on either a single text paragraph or an image extracted from the PDF. Meanwhile, Image-text, Section, and Cross-paragraph denote that the QA pairs are generated from a paragraph and its corresponding references, an entire section, or non-contiguous paragraphs, respectively.
+Text-only and Image-only indicate that the QA pairs are generated based on either a single text paragraph or an image extracted from the PDF. Meanwhile, Image-text, Section, and Cross-paragraph denote that the QA pairs are generated from a paragraph and its corresponding references, an entire section, or non-contiguous paragraphs, respectively.
 <p align="center">
     <img src="assets/The statistic of PaperPDF.png" width="500"/>
 </p>
@@ -49,12 +49,12 @@ In Progress...
     <img src="assets/comparision on PaperPDF.png" width="500"/>
 </p>
 
-### Performance comparison with other DocVLMs on single page document-oriented VQA benchmarks.
+### Performance comparison with other DocVLMs on single-page document understanding.
 <p align="center">
     <img src="assets/single page evaluation.png" width="500"/>
 </p>
 
-### Performance comparison with other DocVLMs for multipage document understanding.
+### Performance comparison with other DocVLMs on multi-page document understanding.
 <p align="center">
     <img src="assets/MP evaluation.png" width="500"/>
 </p>
