@@ -22,6 +22,9 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 ## News
 * ```2024.10.06``` 🚀 We release the paper [PDF-Wukong](https://arxiv.org/).
 
+## Evaluate
+In Progress
+
 ## Environment
 In Progress
 
@@ -31,9 +34,12 @@ In Progress
 ## Inference
 In Progress
 
-## Citing Monkey
+## Demo
+In Progress
+
+## Citing PDF-Wukong
 ## Copyright
 <!-- If you wish to refer to the baseline results published here, please use the following BibTeX entries: -->
 In Progress
 
-Monkey project is intended for non-commercial use only. For commercial inquiries or to explore more advanced versions of the Monkey series LMMs (<1b, 2b, 7b, 72b), please contact Prof. Yuliang Liu at ylliu@hust.edu.cn. 
+PDF-Wukong project is intended for non-commercial use only. For commercial inquiries, please contact Prof. Wei Chen at lemuria_chen@hust.edu.cn. 
