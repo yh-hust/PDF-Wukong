@@ -23,7 +23,7 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 * ```2024.10.06``` 🚀 We release the paper [PDF-Wukong](https://arxiv.org/).
 
 ## Methodology
-### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
+### The overall structure of PDF-WuKong.
 <p align="center">
     <img src="assets/overall structure of PDF-WuKong.png" width="1000"/>
 </p>
@@ -36,24 +36,25 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 In Progress...
 
 ## Dataset
-### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
+### The statistic of PaperPDF.
+Text-only and Image-only indicate that the QA pairs are generated based on either a single text paragraph or an image extracted from the PDF. Meanwhile, Image-text, Section, and Cross-paragraph denote that the QA pairs are generated from a paragraph and its corresponding references, an entire section, or non-contiguous paragraphs, respectively.
 <p align="center">
     <img src="assets/The statistic of PaperPDF.png" width="500"/>
 </p>
 In Progress...
 
 ## Evaluate
-### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
+### Performance comparison with other commercial products on PaperPDF.
 <p align="center">
     <img src="assets/comparision on PaperPDF.png" width="500"/>
 </p>
 
-### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
+### Performance comparison with other DocVLMs on single page document-oriented VQA benchmarks.
 <p align="center">
     <img src="assets/single page evaluation.png" width="500"/>
 </p>
 
-### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
+### Performance comparison with other DocVLMs for multipage document understanding.
 <p align="center">
     <img src="assets/MP evaluation.png" width="500"/>
 </p>
