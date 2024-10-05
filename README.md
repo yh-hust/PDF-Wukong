@@ -23,10 +23,11 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 * ```2024.10.06``` 🚀 We release the paper [PDF-Wukong](https://arxiv.org/).
 
 ## Methodology
+### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/overall structure of PDF-WuKong.png" width="1000"/>
 </p>
-
+### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/dataset construction.png" width="1000"/>
 </p>
@@ -34,21 +35,22 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 In Progress
 
 ## Dataset
+### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/The statistic of PaperPDF.png" width="500"/>
 </p>
 In Progress
 
 ## Evaluate
-</p>
+### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/comparision on PaperPDF.png" width="500"/>
 </p>
-</p>
+### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/single page evaluation.png" width="500"/>
 </p>
-</p>
+### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
 <p align="center">
     <img src="assets/MP evaluation.png" width="500"/>
 </p>
