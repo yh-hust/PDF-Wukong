@@ -35,6 +35,7 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 <p align="center">
     <img src="assets/The statistic of PaperPDF.png" width="300"/>
 </p>
+
 ## Evaluate
 In Progress
 
