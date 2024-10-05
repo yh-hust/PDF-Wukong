@@ -35,7 +35,7 @@ In Progress
 
 ## Dataset
 <p align="center">
-    <img src="assets/The statistic of PaperPDF.png" width="1000"/>
+    <img src="assets/The statistic of PaperPDF.png" width="500"/>
 </p>
 In Progress
 
