@@ -17,7 +17,7 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 </h5>
 
 >[ArXiv] [**PDF-Wukong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling**](https://arxiv.org)<br>
-> Xudong Xie*, Liang Yin*, Hao Yan*, Yang Liu*, Jing Ding, Minghui Liao, Wei Chen, Xiang Bai, Yuliang Liu <br>
+> Xudong Xie*, Liang Yin*, Hao Yan*, Yang Liu*, Jing Ding, Minghui Liao, Yuliang Liu, Wei Chen，Xiang Bai <br>
 
 ## News
 * ```2024.10.10``` 🚀 We release the paper [PDF-Wukong](https://arxiv.org/).
