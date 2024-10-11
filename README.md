@@ -1,6 +1,6 @@
 # PDF-Wukong
 A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling
-<h3 align="center"> <a href="https://arxiv.org/">PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling</a></h3>
+<h3 align="center"> <a href="https://arxiv.org/abs/2410.05970">PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling</a></h3>
 <h2></h2>
 
 <h5 align="center"> Please give us a star ⭐ for the latest update.  </h5>
