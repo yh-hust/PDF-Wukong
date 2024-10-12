@@ -71,7 +71,7 @@ Text-only and Image-only indicate that the QA pairs are generated based on eithe
 <p align="center">
     <img src="assets/The statistic of PaperPDF.png" width="500"/>
 </p>
-In Progress...
+PaperPDF will be released soon...
 
 ## Evaluate
 ### Performance comparison with other commercial products on PaperPDF.
