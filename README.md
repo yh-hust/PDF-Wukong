@@ -24,8 +24,8 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 
 >[CVPR'24] [**Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**](https://arxiv.org/abs/2311.06607)<br>
 > Zhang Li, Biao Yang, Qiang Liu, Zhiyin Ma, Shuo Zhang, Jingxu Yang, Yabo Sun, Yuliang Liu, Xiang Bai <br>
-[![Paper](https://img.shields.io/badge/Paper-CVPR'24_Highlight-red)](README.md)
-[![Source_code](https://img.shields.io/badge/Code-Available-white)](README.md)
+[![Paper](https://img.shields.io/badge/Paper-CVPR'24_Highlight-red)](https://arxiv.org/abs/2311.06607)
+[![Source_code](https://img.shields.io/badge/Code-Available-white)](https://github.com/Yuliang-Liu/Monkey)
 [![Demo](https://img.shields.io/badge/Demo-blue)](http://vlrlab-monkey.xyz:7681/)
 [![Detailed Caption](https://img.shields.io/badge/Detailed_Caption-yellow)](http://huggingface.co/datasets/echo840/Detailed_Caption)
 [![Model Weight](https://img.shields.io/badge/Model_Weight-gray)](http://huggingface.co/echo840/Monkey)
