@@ -77,7 +77,7 @@ Text-only and Image-only indicate that the QA pairs are generated based on eithe
 <p align="center">
     <img src="assets/The statistic of PaperPDF.png" width="500"/>
 </p>
-PaperPDF will be released soon...
+**PaperPDF** is publicly available on Hugging Face Datasets: [PaperPDF](https://huggingface.co/datasets/yh0075/PaperPDF).
 
 ## Evaluate
 ### Performance comparison with other commercial products on PaperPDF.
