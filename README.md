@@ -55,6 +55,8 @@
 [![Model Weight](https://img.shields.io/badge/Model_Weight-gray)](https://huggingface.co/mx262/MiniMokney)
 [![Model Weight in Wisemodel](https://img.shields.io/badge/Model_Weight_in_Wisemodel-gray)](https://www.wisemodel.cn/models/HUST-VLRLab/Mini-Monkey)
 
+</details>
+
 ## News
 * ```2024.10.10``` 🚀 We release the paper [PDF-Wukong](https://arxiv.org/abs/2410.05970).
 
