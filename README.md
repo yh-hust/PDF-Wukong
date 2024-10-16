@@ -53,17 +53,15 @@ A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse S
 * ```2024.10.10``` 🚀 We release the paper [PDF-Wukong](https://arxiv.org/abs/2410.05970).
 
 ## Methodology
-### The overall structure of PDF-WuKong.
+### The overall structure of PDF-WuKong
 <p align="center">
     <img src="assets/overall structure of PDF-WuKong.png" width="1000"/>
 </p>
 
-### Compared with closed-source APIs and previous SOTAs on Video and Structural High-resolution images.
+### The construction process of PaperPDF
 <p align="center">
     <img src="assets/dataset construction.png" width="1000"/>
 </p>
-
-In Progress...
 
 ## Dataset
 ### The statistic of PaperPDF.
@@ -90,20 +88,7 @@ PaperPDF will be released soon...
 </p>
 Please refer to Technical Report for more details.
 
-## Environment
-In Progress...
-
-## Train
-In Progress...
-
-## Inference
-In Progress...
-
-## Checkpoint
-will be released soon
-
-## Demo
-In Progress...
+## Training/evaluation code, checkpoint, demo will be released soon.
 
 ## Citing PDF-Wukong
 ## Copyright
