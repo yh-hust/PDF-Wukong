@@ -1,9 +1,11 @@
-# PDF-Wukong
-<p align="center">
-    <img src="assets/logo.png" width="200"/>
-</p>
-<h3 align="center"> <a href="https://arxiv.org/abs/2410.05970">PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling</a></h3>
-<h2></h2>
+<div align="center">
+
+# PDF-WuKong <img src="assets/logo.png" width="50"/> : A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling
+
+[\[📜 Paper\]](https://arxiv.org/abs/2410.05970) [\[🚀 Code\]](https://github.com/yh-hust/PDF-Wukong) [\[🤗 HF Dataset\]](https://huggingface.co/datasets/yh0075/PaperPDF) [\[📖 Project Page\]](https://willpat1213.github.io/PDF-Wukong/)
+<h2></h2
+
+</div>
 
 <h5 align="center"> Please give us a star ⭐ for the latest update.  </h5>
 
