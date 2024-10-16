@@ -98,7 +98,7 @@ If you wish to refer to the baseline results published here, please use the foll
 ```BibTeX
 @misc{xie2024pdfwukong,
         title={PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling}, 
-        author={Xudong Xie and Liang Yin and Hao Yan and Yang Liu and Jing Ding and Minghui Liao and Yuliang Liu and Wei Chen and Xiang Bai},
+        author={Xie, Xudong and Yin, Liang and Yan, Hao and Liu, Yang and Ding, Jing and Liao, Minghui and Liu, Yuliang and Chen, Wei and Bai, Xiang},
         year={2024},
         eprint={2410.05970},
         archivePrefix={arXiv},
