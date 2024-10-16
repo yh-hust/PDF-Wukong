@@ -94,7 +94,7 @@ PaperPDF will be released soon...
 <p align="center">
     <img src="assets/MP evaluation.png" width="500"/>
 </p>
-Please refer to Technical Report for more details.
+Please refer to [our paper](https://arxiv.org/abs/2410.05970) for more details.
 
 ## Training/evaluation code, checkpoint, demo will be released soon.
 
