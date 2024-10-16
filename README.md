@@ -125,7 +125,7 @@ json
 ```
 ### Data Fields
 - `PDF name`: a string containing the name of the PDF document.
-- `Category`: a string representing the category of the query, which can be one of the following: `single-text_only`, `single-text_img`, `multi-section`, `multi-cross_paragraph`.
+- `Category`: a string representing the category of the query, which can be one of the following: `single-text_only`, `single-image_only`, `multi-text_image`, `multi-section`, `multi-cross_paragraph`.
 - `Query`: a string containing the question posed to the PDF
 - `Answer`: an array of the two answers generated, the training set and test set has different prompt for the answers (see [title](### Dataset Creation) below for more details)
 - `Evidence`: an object containing supporting texts and figures (if provided) from the PDF document
