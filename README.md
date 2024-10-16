@@ -91,8 +91,20 @@ Please refer to Technical Report for more details.
 ## Training/evaluation code, checkpoint, demo will be released soon.
 
 ## Citing PDF-Wukong
+If you wish to refer to the baseline results published here, please use the following BibTeX entries:
+
+```BibTeX
+@misc{xie2024pdfwukong,
+        title={PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling}, 
+        author={Xudong Xie and Liang Yin and Hao Yan and Yang Liu and Jing Ding and Minghui Liao and Yuliang Liu and Wei Chen and Xiang Bai},
+        year={2024},
+        eprint={2410.05970},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV},
+        url={https://arxiv.org/abs/2410.05970},
+      }
+```
 ## Copyright
 <!-- If you wish to refer to the baseline results published here, please use the following BibTeX entries: -->
-In Progress...
 
 PDF-Wukong project is intended for non-commercial use only. For commercial inquiries, please contact haoyan at haoyan@hust.edu.cn. 
