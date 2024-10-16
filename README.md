@@ -83,7 +83,7 @@ Text-only and Image-only indicate that the QA pairs are generated based on eithe
 ### Repository Structure
 The structure of this repository is shown as follows.
 ```
-PDF-Wukong
+PaperPDF
 │
 ├── Original PDFs               # Original PDF documents
 │
