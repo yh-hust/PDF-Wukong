@@ -109,6 +109,7 @@ For each instance in the dataset, the following fields are provided:
 ```
 json
 {
+  {
   "PDF name": "1507.04291v1",
   "Category": "single-text_img",
   "Query": "According to Table 1, which sections discuss TCB-included Chebyshev kernels for both position and velocity?",
@@ -116,6 +117,7 @@ json
   "Evidence": {
     "Texts": [{"idx": 11, "Text": "The six SPK data types, listed in Table 1, for ephemerides of natural solar system bodies..."}],
     "Figures": [{"idx": 220, "Caption": "Table 1: Double precision kernel data types of interest.", "Figure": "1507.04291v1-Table1-1.png"}]
+    }
   }
   ...
 }
