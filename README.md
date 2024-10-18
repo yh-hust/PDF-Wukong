@@ -85,7 +85,9 @@ The structure of this repository is shown as follows.
 ```
 PaperPDF
 │
-├── Original PDFs               # Original PDF documents
+├── Original PDFs                # Original PDF documents
+│
+│── filter.py                    # Code for filtering data based on rules.
 │
 ├── Parsed Data
 │   ├── PaperPDF.py              # Code for extracting text and image information from XML documents
