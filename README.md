@@ -156,13 +156,12 @@ Please refer to our paper for more details.
 If you wish to refer to the baseline results published here, please use the following BibTeX entries:
 
 ```BibTeX
-@article{xie2024pdfwukong,
-        title={PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling}, 
-        author={Xie, Xudong and Yin, Liang and Yan, Hao and Liu, Yang and Ding, Jing and Liao, Minghui and Liu, Yuliang and Chen, Wei and Bai, Xiang},
-        year={2024},
-        journal={arXiv preprint arXiv:2410.05970},
-        url={https://arxiv.org/abs/2410.05970},
-      }
+@article{xie2024wukong,
+  title={WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling},
+  author={Xie, Xudong and Yan, Hao and Yin, Liang and Liu, Yang and Ding, Jing and Liao, Minghui and Liu, Yuliang and Chen, Wei and Bai, Xiang},
+  journal={arXiv preprint arXiv:2410.05970},
+  year={2024}
+}
 ```
 ## Copyright
 <!-- If you wish to refer to the baseline results published here, please use the following BibTeX entries: -->
